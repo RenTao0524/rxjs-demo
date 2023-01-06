@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/RenTao0524/rxjs-demo/issues"
   },
-  "homepage": "https://github.com/RenTao0524/rxjs-demo#readme"
+  "homepage": "https://github.com/RenTao0524/rxjs-demo#readme",
+  "dependencies": {
+    "rxjs": "^7.8.0"
+  },
+  "devDependencies": {
+    "rollup": "^3.9.1"
+  }
 }
