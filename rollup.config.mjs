@@ -1,10 +1,10 @@
 import html from '@rollup/plugin-html'
 
 export default {
-    input: './src/index.ts',
+    input: './src/index.js',
     output: {
         file: 'dist/main.js',
-        format: 'es'
+        format: 'umd'
     },
     plugins:[
         html()
